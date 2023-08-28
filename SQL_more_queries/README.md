@@ -1,0 +1,1 @@
+This is a deeper dive into sql quesies: Joins and priviledges.
